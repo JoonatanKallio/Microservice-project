@@ -1,4 +1,4 @@
-# Microservice-project
+# Microservice-project | How to run
 The project can be run first by typing npm install in the "node server" folder and then inside "node server" npm start.
 After that startup the python microservices one by one.
 
